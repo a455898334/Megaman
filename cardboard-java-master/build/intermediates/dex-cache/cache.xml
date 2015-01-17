@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sshi/Megaman/cardboard-java-master/CardboardSample/libs/libprotobuf-java-2.3-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c4d70e4409fdf6dc367b7db105751ab73bec766a">
+        <dex dex="/home/sshi/Megaman/cardboard-java-master/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.3-nano-c70a7cbf3f60a2bff203c0f5270c7b9cf5f6df0c.jar" />
+    </item>
+    <item
+        jar="/home/sshi/Megaman/cardboard-java-master/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="419a0f2b571af0b7348265ed3bbead8e8d363fe6">
+        <dex dex="/home/sshi/Megaman/cardboard-java-master/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-9f7745214d228d1bd2e9e32ad445aba10066afca.jar" />
+    </item>
+
+</items>
